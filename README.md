@@ -1,7 +1,5 @@
 # 지역 기반 뉴스 플랫폼
 
-<br>
-
 ## 프로젝트 정의
 
 **지역 기반 뉴스 플랫폼**은 위치 서비스 시스템을 기반으로 지역 시민들이 뉴스를 직접 작성하여 정보와 이슈를 공유하고 지역의 유니크한 뉴스 커뮤니티 시스템을 제공합니다.
@@ -68,10 +66,10 @@ npm run build:production
 프로젝트 설계 문서는 design 디렉토리에 마크다운 파일로 기록되어있습니다.
 각각의 설계 문서는 다음과 같습니다.
 
-- 요구사항 정의서
+- [요구사항 정의서](https://github.com/ssuminii/devcamp-onboarding-template/blob/main/design/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.md)
   - 제품이 제공해야되는 기능 요구 정의서입니다.
   - 요구사항 정의서에 기술된 기능은 최소 기능 요구사항이며 추상적일 수 있으며 기능의 구체화는 제품 구현 단계에서 이루어집니다.
-- 프로젝트 설계서
+- [프로젝트 설계서](https://github.com/ssuminii/devcamp-onboarding-template/blob/main/design/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A0%95%EC%9D%98%EC%84%9C.md)
   - 요구사항 정의서를 기반으로 프로젝트를 설계합니다.
-- 기능 정의서
+- [기능 정의서](https://github.com/ssuminii/devcamp-onboarding-template/blob/main/design/%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C.md)
   - 사용자 스토리 기반으로 세부 기능을 정의합니다.
